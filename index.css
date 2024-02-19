@@ -1,0 +1,25 @@
+.bulbbody{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border-radius: 50%;
+    border: solid;
+}
+
+.bulbstand{
+    height: 70px;
+    width: 40px;
+    background-color: black;
+    margin-left: 30px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+.mybutton{
+    background-color: green;
+    color: white;
+}
